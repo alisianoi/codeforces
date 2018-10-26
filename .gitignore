@@ -1,5 +1,8 @@
 *~
 *.out
 \#*\#
+dme.py
+tmp.py
 dme.cpp
+tmp.cpp
 *.class
